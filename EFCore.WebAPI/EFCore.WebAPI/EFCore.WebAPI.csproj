@@ -7,11 +7,12 @@
   <ItemGroup>
     <Compile Remove="Migrations\20220825212052_Initial_DB_HeroApp.cs" />
     <Compile Remove="Migrations\20220825212052_Initial_DB_HeroApp.Designer.cs" />
+    <Compile Remove="Migrations\20220825224630_HeroiBatalha_IdentidadeSecreta.cs" />
+    <Compile Remove="Migrations\20220825224630_HeroiBatalha_IdentidadeSecreta.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Controller\" />
-    <Folder Include="Migrations\" />
   </ItemGroup>
 
   <ItemGroup>

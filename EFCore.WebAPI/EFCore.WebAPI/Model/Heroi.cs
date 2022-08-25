@@ -9,7 +9,5 @@ namespace EFCore.WebAPI.Model
     {
         public int Id { get; set; }
         public string Nome { get; set; }
-        public Batalha Batalha { get; set; }
-        public int BatalhaID { get; set; }
     }
 }
